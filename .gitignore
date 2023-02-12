@@ -1,0 +1,9 @@
+# .DS_Store
+# /content
+# /gh-pages
+
+# master
+# /*
+# !/content
+# !/.gitignore
+.DS_Store
